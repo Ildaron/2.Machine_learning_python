@@ -4,3 +4,4 @@
 3. KNeighborsClassifier with iris dataset by python
 4. Random Forest Classifier with iris dataset by python
 5. Decision Tree Classifier with iris dataset by python
+6. Support Vector Machines with iris dataset by python
