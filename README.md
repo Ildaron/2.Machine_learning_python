@@ -3,3 +3,4 @@
 2. Python naive bayes with iris dataset by python 
 3. KNeighborsClassifier with iris dataset by python
 4. Random Forest Classifier with iris dataset by python
+5. Decision Tree Classifier with iris dataset by python
