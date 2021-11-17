@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 from sklearn import datasets
-df = pd.read_csv('C:/Users/rakhmatulin/Desktop/Scotland/1.Machine_learning/1.Scikit-Learn_all_method_separate/iris_test.csv')
+df = pd.read_csv('iris_test.csv')
 
 #1 take tata for graph
 iris = datasets.load_iris()
