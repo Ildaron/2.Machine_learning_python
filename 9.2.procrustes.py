@@ -1,3 +1,5 @@
+# https://translated.turbopages.org/proxy_u/en-ru.ru.c276140c-62bcb205-e902ecf9-74722d776562/https/stackoverflow.com/questions/18925181/procrustes-analysis-with-numpy
+
 import numpy as np
 from scipy.spatial import procrustes
 
